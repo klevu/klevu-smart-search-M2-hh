@@ -1,10 +1,10 @@
 {
-  "name": "klevu/module-search",
+  "name": "klevu/module-search-hh",
   "description": "Search that learns, generates sales. Fastest, most advanced cloud-based search, autocomplete, instant search",
   "type": "metapackage",
   "version": "2.1.12",
   "require": {
-    "klevu/module-productsearch": "2.1.12",
+    "klevu/module-productsearch": "dev-hh",
     "klevu/module-content": "2.1.12",
     "klevu/module-addtocart": "2.1.12"
   },
