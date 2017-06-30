@@ -4,7 +4,7 @@
   "type": "metapackage",
   "version": "2.1.12",
   "require": {
-    "klevu/module-productsearch": "2.1.12",
+    "klevu/module-productsearch": "dev-hh",
     "klevu/module-content": "2.1.12",
     "klevu/module-addtocart": "2.1.12"
   },
@@ -12,6 +12,7 @@
     "OSL-3.0",
     "AFL-3.0"
   ],
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "Klevu Oy",
